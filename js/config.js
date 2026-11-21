@@ -9,9 +9,9 @@ window.SITE = {
 
   /* Контакты. Меняются здесь — обновятся и кадила, и строки внизу. */
   contacts: {
-    instagram: "https://www.instagram.com/",
-    telegram: "https://t.me/",
-    email: "mailto:hello@example.com"
+    instagram: "https://www.instagram.com/ogreclu?jplx=MXJpanpoMjYyaWZmcg==/",
+    telegram: "https://t.me/deux_dude/",
+    email: "mailto:kostik2005lis@mail.ru"
   },
 
   /* Работы в лентах. Ключи = data-ribbon у секций.
